@@ -159,7 +159,7 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+```
 # Markdown Processing
 kramdown:
   input: GFM
@@ -171,6 +171,12 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
 # Collections
 collections:
@@ -178,6 +184,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  journals:
+    output: true
+    permalink: /:collection/:path/
+  arxiv:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -226,6 +238,22 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  - scope:
+      path: ""
+      type: journals
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  - scope:
+      path: ""
+      type: arxiv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -254,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -308,3 +336,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-minimal
+```
+
