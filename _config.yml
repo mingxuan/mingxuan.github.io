@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mingxuan Wang"
-  avatar           : ""
+  avatar           : "/images/me.jpeg"
   bio              : "Ph.D."
   location         : "Shanghai, China"
   employer         : "Bytedance AI Lab"
