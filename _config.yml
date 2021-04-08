@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiatao Gu's Site"
+title                    : "Mingxuan Wang's Site"
 title_separator          : "-"
-name                     : &name "Jiatao Gu"
-description              : &description "I am a research scientist at Facebook AI Research."
-url                      : "https://jiataogu.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mingxuan Wang"
+description              : &description "I am a research scientist at Bytedance AI Lab."
+url                      : "https://mingxuan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MultiPath/multipath.github.io"
+repository               : "mingxuan/mingxuan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,38 +80,38 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiatao Gu"
-  avatar           : "photo_crop.jpg"
+  name             : "Mingxuan Wang"
+  avatar           : ""
   bio              : "Ph.D."
-  location         : "New York, US"
-  employer         : "Facebook AI Research"
+  location         : "Shanghai, China"
+  employer         : "Bytedance AI Lab"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cB1mFBsAAAAJ"
-  email            : "jgu@fb.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=hOQ6G6EAAAAJ"
+  email            : "wangmingxuan.89@bytedance.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "jiatao.gu"
+  facebook         :
   foursquare       :
-  github           : "MultiPath"
+  github           : "mingxuan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiatao-gu-204b2672"
+  linkedin         : ""
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thoma_gu"
+  twitter          : ""
   vine             :
-  weibo            : "3252349540"
+  weibo            : ""
   xing             :
   youtube          :
   wikipedia        :
