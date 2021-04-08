@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mingxuan"
-  avatar           : "profile.png"
-  bio              : "Research/Manager at Bytedance AI Lab"
+  avatar           : ""
+  bio              : "Manager at Bytedance AI Lab"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -282,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
