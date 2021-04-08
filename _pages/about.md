@@ -1,20 +1,34 @@
 ---
 permalink: /
 title: About Me
-description: "Mingxuan Wang's website"
+description: "Jiatao Gu's website"
 author_profile: true
 image:
-  feature: light.png
+  feature: blackhole.png
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a research scientist at 
+I am currently a research scientist at the [Facebook AI Research](https://research.fb.com/category/facebook-ai-research/) in New York City. My general research interests lie in applying deep learning approaches to natural language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
+
+I obtained my Ph.D. degree at the department of Electrical and Electronic Engineering, University of Hong Kong in 2018 and I was supervised by [Prof. Victor O.K. Li](https://www.eee.hku.hk/people/vli/). 
+I spent a wonderful time visiting the [CILVR Lab](https://wp.nyu.edu/cilvr), New York University working with [Prof. Kyunghyun Cho](http://www.kyunghyuncho.me/).
+Before that, I obtained my Bachelor's degree at the Electronic Engineering Department, Tsinghua University in 2014 with the guidance of [Prof. Ji Wu](https://www.tsinghua.edu.cn/publish/eeen/3784/2010/20101219135614305780920/20101219135614305780920_.html).
+
+
 <!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
 
 What's New?
 ------
+**2019-12-18**: Four [papers](/publication/understand-distillation) were accepted at **ICLR 2020**. See you in [Addis Ababa, ETHIOPIA](https://www.google.com/maps/place/Millennium+Hall/@8.9902942,38.7895542,15z/data=!4m2!3m1!1s0x0:0xbb84990929808c9a?sa=X&ved=2ahUKEwi6lZ7wmbrjAhWWFTQIHYFzAhMQ_BIwE3oECA4QCA)! <br>
+**2019-11-10**: One [paper](/publication/byte-level-nmt) was accepted at **AAAI 2020**. See you in New York :) <br>
+**2019-09-03**: One [paper](/publication/levenshtein-transformer) was accepted at **NeurIPS 2019**. See you in Vancouver!<br>
+**2019-08-12**: One demo paper was accepted to present at **EMNLP2019**!<br>
+**2019-07-24**: One paper was accepted at **TACL** and will be presented in **EMNLP2019**. See you in Hong Kong!<br>
+**2019-05-14**: One paper was accepted at **ACL2019**!<br>
+**2019-03-29**: Two papers was accepted at **NAACL2019 NeuralGen Workshop**. See you in Minneapolis!<br>
+**2018-08-20**: I started my new position as a research scientist at Facebook AI Research (FAIR) in NYC.
 
 <!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -46,3 +60,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
