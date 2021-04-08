@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Mingxuan Wang"
-  avatar           : "photo_crop.jpg"
-  bio              : "Ph.D."
-  location         : "New York, US"
+  avatar           : "me.png"
+  bio              : "Research Manager at Bytedance AI Lab"
+  location         : "Beijing, China"
   employer         : "Bytedance AI Lab"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=cB1mFBsAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=hOQ6G6EAAAAJ"
   email            : "wangmingxuan.89@bytedance.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
