@@ -1,10 +1,10 @@
 ---
 permalink: /
 title: About Me
-description: "Jiatao Gu's website"
+description: "Mingxuan Wang's website"
 author_profile: true
 image:
-  feature: blackhole.png
+  feature: light.png
 redirect_from: 
   - /about/
   - /about.html
