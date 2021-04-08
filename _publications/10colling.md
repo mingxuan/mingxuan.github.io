@@ -1,7 +1,7 @@
 ---
 title: "Neural machine translation with decoding history enhanced attention"
 collection: publications
-permalink: /publication/2018/10/wmt18
+permalink: /publication/2018/10/nmtenc
 excerpt: 'Mingxuan Wang, Li Gong, Wenhuan Zhu, Jun Xie, Chao Bian'
 date: 2018/8/5
 venue: 'COLING'
