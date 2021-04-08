@@ -2,8 +2,12 @@ pub_date	title	venue	excerpt	citation	url_slug	paper_url
 2020/12/1	Finding Sparse Structure for Domain Specific Neural Machine Translation	AAAI	"Jianze Liang, Chengqi Zhao, Mingxuan Wang, Xipeng Qiu, Lei Li"	"@article{liang2020finding,"	sparse-tune	https://arxiv.org/abs/2012.10586
 2020/11/2	On the sentence embeddings from pre-trained language models	EMNLP	"Bohan Li, Hao Zhou, Junxian He, Mingxuan Wang, Yiming Yang, Lei Li"	"@article{li2020sentence,"	bert	https://arxiv.org/abs/2011.05864
 2020/10/23	LightSeq: A High Performance Inference Library for Sequence Processing and Generation	NAACL	"Xiaohui Wang, Ying Xiong, Yang Wei, Mingxuan Wang, Lei Li"	"@article{wang2020lightseq,"	lightseq	https://arxiv.org/abs/2010.13887
-				"  title={LightSeq: A High Performance Inference Library for Sequence Processing and Generation},"		
-				"  author={Wang, Xiaohui and Xiong, Ying and Wei, Yang and Wang, Mingxuan and Li, Lei},"		
-				"  journal={arXiv preprint arXiv:2010.13887},"		
+2020/10/7	Pre-training Multilingual Neural Machine Translation by Leveraging Alignment Information	EMNLP	"Zehui Lin, Xiao Pan, Mingxuan Wang, Xipeng Qiu, Jiangtao Feng, Hao Zhou, Lei Li"	"@article{lin2020pre,"	mrasp	https://arxiv.org/abs/2010.03142
+2020/9/21	Generative Imagination Elevates Machine Translation	NAACL	"Quanyu Long, Mingxuan Wang, Lei Li"	"@article{long2020generative,"	imagtrans	https://arxiv.org/abs/2009.09654
+2020/7/12	Xiaomingbot: A Multilingual Robot News Reporter	ACL Demo	"Runxin Xu, Jun Cao, Mingxuan Wang, Jiaze Chen, Hao Zhou, Ying Zeng, Yuping Wang, Li Chen, Xiang Yin, Xijin Zhang, Songcheng Jiang, Yuxuan Wang, Lei Li"	"@article{xu2020xiaomingbot,"	xiaomingbot	https://arxiv.org/abs/2007.08005
+2020/4/17	Active sentence learning by adversarial uncertainty sampling in discrete space	EMNLP Findings	"Dongyu Ru, Yating Luo, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu"	"@article{ru2020active,"	aslb	https://arxiv.org/abs/2004.08046
+				"  title={Active sentence learning by adversarial uncertainty sampling in discrete space},"		
+				"  author={Ru, Dongyu and Luo, Yating and Qiu, Lin and Zhou, Hao and Li, Lei and Zhang, Weinan and Yu, Yong},"		
+				"  journal={arXiv preprint arXiv:2004.08046},"		
 				  year={2020}		
 				}		
