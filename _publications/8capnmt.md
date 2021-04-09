@@ -1,7 +1,7 @@
 ---
 title: "Towards linear time neural machine translation with capsule networks"
 collection: publications
-permalink: /publication/2020/11/2-bert
+permalink: /publication/2020/11/1-caps
 excerpt: 'Mingxuan Wang, Jun Xie, Zhixing Tan, Jinsong Su, Deyi Xiong, Lei Li'
 date: 2018/11/1
 venue: 'EMNLP'

@@ -1,7 +1,7 @@
 ---
 title: "Towards Making the Most of BERT in Neural Machine Translation"
 collection: publications
-permalink: /publication/bertnmt
+permalink: /publication/2020/bertnmt
 excerpt: 'Jiacheng Yang Mingxuan Wang Hao Zhou, Chengqi Zhao, Weinan Zhang, Yong Yu, Lei Li'
 date: 2020/7/2
 venue: 'AAAI'
