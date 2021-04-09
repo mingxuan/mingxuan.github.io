@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research scientist at theByteance AI Lab in Shanghai. My general research interests lie in applying deep learning approaches to natural language processing (NLP) problems. In particular, I am interested in building an efficient, effective and reliable neural machine translation (NMT) system for human languages.
+I am a research scientist/manager working at ByteDance AI Lab.   My general research interests lie in natural language processing and machine translation. In particular, I am interested in building an high-availability machine translation system to remove language barriers for people all over the world. 
 
 
 
@@ -18,6 +18,8 @@ I am currently a research scientist at theByteance AI Lab in Shanghai. My genera
 What's New?
 ------
 
+Selected Publications and Projects
+-------
 
 <!-- Site-wide configuration
 ------

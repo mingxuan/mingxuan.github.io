@@ -1,8 +1,8 @@
 ---
 title: "Syntax-based deep matching of short texts"
 collection: publications
-permalink: /publication/2015/4/syn
-excerpt: 'Mingxuan Wang, Zhengdong Lu, Hang Li, Qun Liu
+permalink: /publication/2015/7/syn
+excerpt: 'Mingxuan Wang, Zhengdong Lu, Hang Li, Qun Liu'
 date: 2015/7/9
 venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/1503.02427'
