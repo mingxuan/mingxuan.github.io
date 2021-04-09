@@ -2,7 +2,7 @@
 title: "Encoding source language with convolutional neural network for machine translation"
 collection: publications
 permalink: /publication/2015/3/enc
-excerpt: 'Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu
+excerpt: 'Fandong Meng, Zhengdong Lu, Mingxuan Wang, Hang Li, Wenbin Jiang, Qun Liu'
 date: 2015/3/6
 venue: 'ACL'
 paperurl: 'https://arxiv.org/abs/1503.01838'
