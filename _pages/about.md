@@ -21,7 +21,17 @@ What's New?
 * Four paper about machine translation is accepted to NAACL 2021.  Three in industry track and one in main track. 
 * Four papers about machine translation are accepted to AAAI.
 * Winner of 5 tasks in WMT20 Machine Translation Contest on Chinese-English, German-English, French-German, English-Khmer, English-Pashto languages. Winner of the WMT20 parallel data filtering task on Khmer and Pashto languages.
-* Two papers accepted to EMNLP 2020!  One in Long track and One in Findings.
+* Two papers arev accepted to EMNLP 2020!  One in Long track and One in Findings.
+* One demo is accepted to ACL 2020.
+* One paper is accepeted at AAAI 2020.
+* Two papers are accepted at EMNLP 2019.
+* I started my new position at Bytedance AI Lab  in January, 2019.
+* Winner of WMT29 Machine Translation Contest on Chinese-English.
+* One paper is accepted at AAAI 2019.
+* One paper is accepted at EMNLP 2018.
+* Two papers are accepted at ACL 2017.
+* One paper is accepted at ACL 2016.
+* One paper is accepted at ACL 2016.
 
 Selected Publications and Projects
 -------
