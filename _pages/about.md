@@ -18,6 +18,11 @@ I am a research scientist/manager working at ByteDance AI Lab.   My general rese
 What's New?
 ------
 
+* Four paper about machine translation is accepted to NAACL 2021.  Three in industry track and one in main track. 
+* Four papers about machine translation are accepted to AAAI.
+* Winner of 5 tasks in WMT20 Machine Translation Contest on Chinese-English, German-English, French-German, English-Khmer, English-Pashto languages. Winner of the WMT20 parallel data filtering task on Khmer and Pashto languages.
+* Two papers accepted to EMNLP 2020!  One in Long track and One in Findings.
+
 Selected Publications and Projects
 -------
 
